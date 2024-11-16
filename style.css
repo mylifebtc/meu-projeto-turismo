@@ -1,39 +1,44 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+.container {
+ 
+}
 body {
   background-color: #F5F4F0;
   border: #d9d9d9;
-  box-sizing: border-box;
+  text-align: center;
+  
+  
 }
+
 header{
   font-size: 16px;
-  color: #E1624F;;
-}
-img#busann{
-  position: ;
-}
-h1 {
-  font-size: 36px;
-  ;
-}
-
-div#page{
-  
-  
-}
-
-h2.history{
   color: #E1624F;
 }
 
-img#busann{
-padding: 40px;
+.fotos {
+  border-radius: 28px;
+}
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+p {
+  font-size: 16px;
 }
 
-img#haedongg{
+h2 {
+  color: #E1624F;
+  font-size: 32px;
+  font-weight: bold;
+}
 
+h3 {
+  font-size: 28px;
+  font-weight: bold;
 }
-section{
-  
-}
-section#p1 {
 
-}
